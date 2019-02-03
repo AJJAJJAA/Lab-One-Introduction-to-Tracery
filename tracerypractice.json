@@ -1,0 +1,73 @@
+{
+	"name": [
+		"BillyBob",
+		"Jessica",
+		"Robert",
+		"John",
+		"Mark",
+		"Janet"
+	],
+	"occupation": [
+		"cult member",
+		"conspiracy theorist",
+		"receptionist",
+		"writer",
+		"editor"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #thing# to #come#. Today #is# national #holiday# #time#, you will never believe what #happened#!"
+	],
+	"always": [
+		"hardly",
+		"never",
+		"sometimes",
+		"occassionally ",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"expecting",
+		"foreseeing",
+		"forecasting",
+		"predicting"
+	],
+	"thing": [
+		"meme",
+		"time",
+		"hour",
+		"event"
+	],
+	"is": [
+		"is",
+		"happens to be ",
+		"is ever so conveniently"
+	],
+	"holiday": [
+		"Reclamation",
+		"Talk like a Pirate",
+		"Oatmeal",
+		"Bean",
+		"Pie"
+	],
+	"come": [
+		"arrive",
+		"come",
+		"happen",
+		"take place"
+	],
+	"time": [
+		"minute",
+		"day",
+		"month",
+		"year",
+		"bicentennial",
+		"tricentennial"
+	],
+	"happened": [
+		"happened",
+		"transpired",
+		"occurred",
+		"took place",
+		"went down"
+	]
+}
